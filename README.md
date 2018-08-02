@@ -1,2 +1,0 @@
-# ohwhataworld
-Personal Website Code
