@@ -28,12 +28,7 @@ footer {
   text-align: center;
 
 }
-h1 {
-  font-size: 150px;
-  font-family: 'Anton', sans-serif;
-  color: white;
 
-}
 
 #hey {
   display: block;
@@ -75,7 +70,7 @@ h2 {
 #toggle span:before {
   width: 100%;
   height: 5px;
-  background-color: #726650;
+  background-color: #597582;
   transition: all 0.3s;
   backface-visibility: hidden;
   border-radius: 2px;
@@ -104,7 +99,7 @@ h2 {
   padding: 10px;
   margin: auto;
   margin-top: 50px;
-  font-family: 'Karla', sans-serif;
+  font-family: 'Anton', sans-serif;
   text-align: center;
   border-radius: 4px;
   background: #fcf7e3;
@@ -173,6 +168,19 @@ li a:focus {
   padding-bottom: 100%;
 }
 
+.subBody {
+  height: 50px;
+  width: auto;
+  background-color: tomato;
+}
+
 body {
   background-color: #597582;
+}
+
+#hello {
+  font-family: 'Yesteryear', cursive;
+  color: #fcf7e3;
+  font-size: 40px;
+  text-align: center;
 }
