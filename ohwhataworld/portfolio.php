@@ -19,67 +19,67 @@
 </head>
 
 <body>
-<header>
+  <header>
 
-<!---Navigation Start--->
+    <!---Navigation Start--->
 
-<nav class="navbar">
+    <nav class="navbar">
 
-<!---Mobile Hamburger--->
-<div class="other">
-<a href="#menu" id="toggle"><span></span></a>
-<div id="menu">
-  <ul>
-    <li id="links"><a href="index.html">Home</a></li>
-    <li id="links"><a href="portfolio.html">Portfolio</a></li>
-    <li id="links"><a href="contact.html">Contact</a></li>
-  </ul>
-</div>
-</div>
+      <!---Mobile Hamburger--->
+      <div class="other">
+        <a href="#menu" id="toggle"><span></span></a>
+        <div id="menu">
+          <ul>
+            <li id="links"><a href="index">Home</a></li>
+            <li id="links"><a href="portfolio">Portfolio</a></li>
+            <li id="links"><a href="contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
 
-<!--- Main Nav --->
-<div class="largeNav">
-<ul>
-  <li><a href="index.html" id="title">Home</a></li>
-  <li><a href="portfolio.html" id="title">Portfolio</a></li>
-  <li><a href="contact.html" id="title">Contact</a></li>
-</ul>
-</div>
+      <!--- Main Nav --->
+      <div class="largeNav">
+        <ul>
+          <li><a href="index">Home</a></li>
+          <li><a href="portfolio">Portfolio</a></li>
+          <li><a href="contact">Contact</a></li>
+        </ul>
+      </div>
 
 
-<!--Social Media Links-->
-     <div class="allSoc">
-       <ul>
+      <!--Social Media Links-->
+      <div class="allSoc">
+        <ul>
           <li class="socMedia"><a href="https://codepen.io/idesovmarch/"><span class="fab fa-codepen" style="color: tomato;"></span></a></li>
           <li class="socMedia"><a href="http://idesovmarch.tumblr.com"><span class="fab fa-tumblr-square fa-lg" style="color: tomato;"></span></a></li>
           <li class="socMedia"><a href="http://www.linkedin.com/in/idesovmarch"><span class="fab fa-linkedin-in fa-lg" style="color: tomato;"></span></a></li>
           <li class="socMedia"><a href="http://www.behance.net/idesovmarch"><span class="fab fa-behance fa-lg" style="color: tomato;"></span></a></li>
           <li class="socMedia"><a href="http://www.instagram.com/idesovmarch"><span class="fab fa-instagram fa-lg" style="color: tomato;"></span></a></li>
-       </ul>
-        </div>
-</nav>
+        </ul>
+      </div>
+    </nav>
   </header>
 
   <!---Start Main Body------->
-<div class="banner">
+  <div class="banner">
 
 
-  <div class="subBody">
-    <h1 id="hello">Portfolio</h1>
-  </div>
+    <div class="subBody">
+      <h1 id="hello">Portfolio</h1>
+    </div>
 
-  <div class="portfolio">
-<h2 id="picTitle"> Logo Design </h2>
-<a href="https://www.behance.net/collection/169798367/logo-design">
+    <div class="portfolio">
+      <h2 id="picTitle"> Logo Design </h2>
+      <a href="https://www.behance.net/collection/169798367/logo-design">
   <img id="moonborn" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/73e9e768807597.5b6a123067405.jpg">
 </a>
-<h2 id="picTitle"> Print Design </h2>
-<a href="https://www.behance.net/collection/169798329/Print">
+      <h2 id="picTitle"> Print Design </h2>
+      <a href="https://www.behance.net/collection/169798329/Print">
   <img id="moonborn" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/1537a068807631.5b6a129a7abf0.jpg">
 </a>
-</div>
+    </div>
 
-</div>
+  </div>
 
 
 

@@ -19,55 +19,56 @@
 </head>
 
 <body>
-<header>
+  <header>
 
-<!---Navigation Start--->
+    <!---Navigation Start--->
 
-<nav class="navbar">
+    <nav class="navbar">
 
-<!---Mobile Hamburger--->
-<div class="other">
-<a href="#menu" id="toggle"><span></span></a>
-<div id="menu">
-  <ul>
-    <li id="links"><a href="index.html">Home</a></li>
-    <li id="links"><a href="portfolio.html">Portfolio</a></li>
-    <li id="links"><a href="contact.html">Contact</a></li>
-  </ul>
-</div>
-</div>
+      <!---Mobile Hamburger--->
+      <div class="other">
+        <a href="#menu" id="toggle"><span></span></a>
+        <div id="menu">
+          <ul>
+            <li id="links"><a href="index">Home</a></li>
+            <li id="links"><a href="portfolio">Portfolio</a></li>
+            <li id="links"><a href="contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
 
-<!--- Main Nav --->
-<div class="largeNav">
-<ul>
-  <li><a href="index.html" id="title">Home</a></li>
-  <li><a href="portfolio.html" id="title">Portfolio</a></li>
-  <li><a href="contact.html" id="title">Contact</a></li>
-</ul>
-</div>
+      <!--- Main Nav --->
+      <div class="largeNav">
+        <ul>
+          <li><a href="index">Home</a></li>
+          <li><a href="portfolio">Portfolio</a></li>
+          <li><a href="contact">Contact</a></li>
+        </ul>
+      </div>
+      </div>
 
 
-<!--Social Media Links-->
-     <div class="allSoc">
-       <ul>
+      <!--Social Media Links-->
+      <div class="allSoc">
+        <ul>
           <li class="socMedia"><a href="https://codepen.io/idesovmarch/"><span class="fab fa-codepen" style="color: tomato;"></span></a></li>
           <li class="socMedia"><a href="http://idesovmarch.tumblr.com"><span class="fab fa-tumblr fa-lg" style="color: tomato;"></span></a></li>
           <li class="socMedia"><a href="http://www.linkedin.com/in/idesovmarch"><span class="fab fa-linkedin-in fa-lg" style="color: tomato;"></span></a></li>
           <li class="socMedia"><a href="http://www.behance.net/idesovmarch"><span class="fab fa-behance fa-lg" style="color: tomato;"></span></a></li>
           <li class="socMedia"><a href="http://www.instagram.com/idesovmarch"><span class="fab fa-instagram fa-lg" style="color: tomato;"></span></a></li>
-       </ul>
-        </div>
-</nav>
+        </ul>
+      </div>
+    </nav>
   </header>
 
   <!---Start Main Body------->
-<div class="banner">
+  <div class="banner">
 
 
-  <div class="subBody">
-    <h1 id="hello">Hello</h1>
+    <div class="subBody">
+      <h1 id="hello">Hello</h1>
+    </div>
   </div>
-</div>
 
 
 
