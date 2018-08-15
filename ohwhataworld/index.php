@@ -1,4 +1,8 @@
+<?php include 'php_code/visit.php';?>
+
 <!doctype html>
+
+
 
 <html lang="en">
 
@@ -6,11 +10,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123989485-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-123989485-1');
+  </script>
+
   <title>hello</title>
+
+  <!--Style Sheets -->
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="styles/index.css">
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css">
-  <!--Bootstrap CSS -->
+
 
   <!--GoogleFonts-->
   <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Roboto" rel="stylesheet">
@@ -46,6 +62,7 @@
         </ul>
       </div>
 
+<a><img class="logotime" src="assets/logo.png"></a>
 
       <!--Social Media Links-->
       <div class="allSoc">
@@ -69,7 +86,7 @@
 
     <div class="middle_left">
 
-      <<div class="me">
+      <div class="me">
       </div>
 </div>
 
@@ -83,7 +100,7 @@
 
 
 
-  </div>
+
 
 
 

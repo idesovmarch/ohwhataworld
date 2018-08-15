@@ -279,8 +279,11 @@ body {
   color: #597582;
 }
 
-.me {
-  width: auto;
-  height: 30%;
-  background-color: grey;
+.logotime {
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+  float: right;
+  display: inline;
+  margin-top: 20px;
 }
