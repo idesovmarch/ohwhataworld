@@ -1,4 +1,4 @@
-<?php include 'php_code/visit.php';?>
+<?php// include 'php_code/visit.php';?>
 
 <!doctype html>
 
@@ -37,6 +37,8 @@
 <body>
   <header>
 
+    <link href="https://snatchbot.me/sdk/webchat.css" rel="stylesheet" type="text/css"><script src="https://snatchbot.me/sdk/webchat.min.js"></script><script> Init('?botID=26490&amp;appID=gKcD32Tvtc1gVMXJ2jZI', 600, 600, 'https://dvgpba5hywmpo.cloudfront.net/media/image/bjTQ9yKY0r42qUsVZbtaS4B70', 'rounded', '#00AFF0', 90, 90, 62.99999999999999, '', '1', '#FFFFFF', 0); /* for authentication of its users, you can define your userID (add &amp;userID={login}) */ </script>
+
     <!---Navigation Start--->
 
     <nav class="navbar">
@@ -48,7 +50,6 @@
           <ul>
             <li id="links"><a href="https://ohwhataworld.net/">Home</a></li>
             <li id="links"><a href="portfolio">Portfolio</a></li>
-            <li id="links"><a href="contact">Contact</a></li>
           </ul>
         </div>
       </div>
@@ -58,11 +59,10 @@
         <ul>
           <li><a href="https://ohwhataworld.net">Home</a></li>
           <li><a href="portfolio">Portfolio</a></li>
-          <li><a href="contact">Contact</a></li>
         </ul>
       </div>
 
-<a><img class="logotime" src="assets/logo.png"></a>
+
 
       <!--Social Media Links-->
       <div class="allSoc">

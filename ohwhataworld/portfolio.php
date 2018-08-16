@@ -44,7 +44,7 @@
           <ul>
             <li id="links"><a href="index">Home</a></li>
             <li id="links"><a href="portfolio">Portfolio</a></li>
-            <li id="links"><a href="contact">Contact</a></li>
+
           </ul>
         </div>
       </div>
@@ -54,7 +54,7 @@
         <ul>
           <li><a href="index">Home</a></li>
           <li><a href="portfolio">Portfolio</a></li>
-          <li><a href="contact">Contact</a></li>
+          
         </ul>
       </div>
 
